@@ -20,6 +20,7 @@ public class OrderCreateTest {
     private WebDriver driver;
     private final String site = "https://qa-scooter.praktikum-services.ru/";
     private final String name;
+
     private final String surname;
     private final String address;
     private final int stateMetroNumber;
